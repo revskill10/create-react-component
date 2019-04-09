@@ -20,7 +20,9 @@ export default {
     // Allows node_modules resolution
     resolve({ extensions }),
     // Compile TypeScript/JavaScript files
-    babel({ extensions, include: ['src/**/*'] }),
+    babel({ 
+      extensions, include: ['src/**/*'] 
+    }),
     // Allow bundling cjs modules. Rollup doesn't understand cjs
     commonjs(),
   ],
