@@ -28,7 +28,7 @@
     "jest-dom": "3.2.2",
     "react": "16.8.6",
     "react-dom": "16.8.6",
-    "rollup": "1.12.1",
+    "rollup": "1.12.2",
     "react-testing-library": "7.0.0",
     "rollup-plugin-babel": "4.3.2",
     "rollup-plugin-commonjs": "10.0.0",
